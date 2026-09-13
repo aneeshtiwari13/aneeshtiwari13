@@ -7,6 +7,6 @@
 - 🏆 Winner — IUCEE HDSE Program (national), 36-hour Ideathon, Department Hackathon, Project Expo, Presentation Competition
 - 🔭 Currently building **Smart Scan and Go** and a **Smart Automated Waste Segregation Dustbin**
 - 🎯 Actively looking for an **SDE Internship**
-- 💬 Ask me about Python, React, Firebase, or IoT + embedded prototyping
+- 💬 Ask me about Python, SQL, Basic Java, Communication skills
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aneesh-tiwari-949213303/) • [Email](mailto:tiwarianeesh839@gmail.com)
 
