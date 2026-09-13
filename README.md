@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Aneesh Tiwari 👋</h1> <h3 align="center">B.Tech Data Science student • Building things that solve real problems • Chasing an SDE internship</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=aneeshtiwari13&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" /> </p>
+<h1 align="center">Hi, I'm Aneesh Tiwari 👋</h1> <h3 align="center">B.Tech Data Science student • Building things that solve real problems • Looking for internship</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=aneeshtiwari13&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" /> </p>
 
 ### 🚀 About Me
 
@@ -60,4 +60,4 @@ An automated waste segregation system that reduces manual sorting and improves w
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aneeshtiwari13&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshtiwari13&theme=radical" alt="GitHub Streak" height="165"/> </p>
-<p align="center"><i>Open to SDE internship opportunities — let's connect!</i></p>
+<p align="center"><i>Open to internship opportunities — let's connect!</i></p>
