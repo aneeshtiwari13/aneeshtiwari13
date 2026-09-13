@@ -30,3 +30,34 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 📌 Featured Projects
+
+#### 🛒 [Smart Scan and Go](https://github.com/aneeshtiwari13/smart-scan-and-go)
+
+A scan-and-checkout shopping system — users scan products with their phone camera and skip the checkout counter entirely.
+
+- Built with React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui
+- Barcode scanning via `html5-qrcode`, product data from the Open Food Facts API
+- Firebase Authentication (phone/OTP), Firestore, and Storage
+- Digital receipt/exit QR via `qrcode.react`
+- Followed an SDLC + Agile workflow
+
+- #### ♻️ [SEGREGO — Smart Sustainable Waste Management & Segregation System](#)
+
+An automated waste segregation system that reduces manual sorting and improves waste recovery, combining water-assisted separation, mechanical sorting, magnetic metal recovery, and IoT monitoring in one unit.
+
+**Key Features**
+- ♻️ Automatic waste segregation
+- 💧 Water-assisted separation
+- 🧲 Magnetic metal recovery
+- ⚙️ Motor-based mechanical sorting
+- 📡 ESP32 & Wi-Fi connectivity
+- 📊 Real-time bin-level monitoring
+- 🔔 Overflow/collection alerts
+- 🌱 Organic waste recovery for composting
+- ♻️ Recovery of recyclable materials
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aneeshtiwari13&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshtiwari13&theme=radical" alt="GitHub Streak" height="165"/> </p>
+<p align="center"><i>Open to SDE internship opportunities — let's connect!</i></p>
